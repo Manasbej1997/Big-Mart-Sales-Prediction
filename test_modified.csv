@@ -1,3 +1,4 @@
+
 Item_Identifier,Item_Weight,Item_Visibility,Item_MRP,Outlet_Identifier,Outlet_Years,Item_Visibility_MeanRatio,Item_Fat_Content_0,Item_Fat_Content_1,Item_Fat_Content_2,Outlet_Location_Type_0,Outlet_Location_Type_1,Outlet_Location_Type_2,Outlet_Size_0,Outlet_Size_1,Outlet_Size_2,Outlet_Type_0,Outlet_Type_1,Outlet_Type_2,Outlet_Type_3,Item_Type_Combined_0,Item_Type_Combined_1,Item_Type_Combined_2,Outlet_0,Outlet_1,Outlet_2,Outlet_3,Outlet_4,Outlet_5,Outlet_6,Outlet_7,Outlet_8,Outlet_9
 FDW58,20.75,0.007564836,107.8622,OUT049,14,1.029191969664595,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 FDW14,8.3,0.038427677,87.3198,OUT017,6,1.1303110107026697,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
@@ -5680,3 +5681,4 @@ FDD47,7.6,0.142990896,169.1448,OUT018,4,0.8782920636732241,0,0,1,0,0,1,0,1,0,0,0
 NCO17,10.0,0.07352856099999999,118.744,OUT045,11,1.162244586366291,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
 FDJ26,15.3,0.0883800752,214.6218,OUT017,6,1.0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
 FDU37,9.5,0.104720151,79.796,OUT045,11,1.0296783376497811,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+
